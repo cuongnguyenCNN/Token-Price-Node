@@ -12,9 +12,9 @@
         "dest": "index.js"
       }
     ],
-   "functions": {
-    "api/*": {
-  
+    "functions": {
+      "api/my-function.js": {
+        "regions": ["sin1"] 
+      }
     }
-  }
   }
